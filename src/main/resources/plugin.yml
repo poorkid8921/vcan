@@ -1,0 +1,4 @@
+name: Anticheat
+version: "1.0"
+main: main.anticheat.MainPlugin
+api-version: 1.19
